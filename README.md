@@ -39,10 +39,21 @@ This organization was primarily set-up as a high-quality service delivery center
     
 ## 🏆 Accomplishments
 
+**W3Schools Certified JavaScript Developer** [Certified](https://certification.w3schools.com/w3certified.asp?id=12498382) by [W3Schools](https://www.w3schools.com/) _(Dec 2020)_
+
 **Best Performer Award of the Quarter** @ [Sony](https://www.sonyindiasoftware.co.in/) _(Mar 2017)_ <br>
 Worked on technical capability showcase - migrating Java app to NodeJS serverside application.
 
-**W3Schools Certified JavaScript Developer** [Certified](https://certification.w3schools.com/w3certified.asp?id=12498382) by [W3Schools](https://www.w3schools.com/) _(Dec 2020)_
+**Special Recognition** Award for _Brainwave NOVA TV Idea Implementation_ @ [Sony](https://www.sonyindiasoftware.co.in/) _(Mar 2019, Mar 2021)_
+
+Nominated for **SISCPL Annual Awards** @ [Sony](https://www.sonyindiasoftware.co.in/) _(Mar 2019, Mar 2021)_
+
+Worked on a research project based on dynamics and flight mechanics of **Unmanned Aerial Vehicle** as the final year project in Engineering.
+
+**1st position** in _Nocturnals_ event - Software Freedom Week 2010 organized by BVBCET, Hubballi.
+
+**3rd position** in _Line Follower_ event - Pleiades(Annual Technical Fest 2011) organized by BVBCET, Hubballi.
+
 <br><br>
 
 ## 💬 Languages
@@ -56,10 +67,13 @@ Worked on technical capability showcase - migrating Java app to NodeJS serversid
 
 **Bachelor of Engineering** Degree in Electronics and Communication<br>
 [B.V.Bhoomaraddi College of Engineering & Technology](https://www.bvb.edu/), (https://www.kletech.ac.in/) - Hubballi, India _(2008 - 2012)_ <br>
+Aggregate Marks/ Percentage: CGPA 9.15/10 <br>
 
-**Pre-University (10+2)** in Journalism and Media Studies<br>
+**Pre-University (10+2)** in Science<br>
 [JSS College of Science](http://jsscollegedharwad.org/) - Dharwad, India _(2006 - 2008)_
+Aggregate Marks/ Percentage: 89.83% (PCM 94.53%) <br>
 
 **10th, High School**<br>
 Pavan English Medium High School - Dharwad, India _(2006 passed)_
+Aggregate Marks/ Percentage: 95.52%
 <br><br>
