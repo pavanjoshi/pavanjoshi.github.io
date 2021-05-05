@@ -84,13 +84,10 @@ Worked on a research project based on dynamics and flight mechanics of **Unmanne
 
 **Bachelor of Engineering** Degree in Electronics and Communication<br>
 [B.V.Bhoomaraddi College of Engineering & Technology](https://www.bvb.edu/), (https://www.kletech.ac.in/) - Hubballi, India _(2008 - 2012)_ <br>
-Aggregate Marks/ Percentage: CGPA 9.15/10 <br>
 
 **Pre-University (10+2)** in Science<br>
 [JSS College of Science](http://jsscollegedharwad.org/) - Dharwad, India _(2006 - 2008)_
-Aggregate Marks/ Percentage: 89.83% (PCM 94.53%) <br>
 
 **10th, High School**<br>
 Pavan English Medium High School - Dharwad, India _(2006 passed)_
-Aggregate Marks/ Percentage: 95.52%
 <br><br>
