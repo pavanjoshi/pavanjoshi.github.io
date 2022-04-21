@@ -32,11 +32,11 @@ Leading and managing the team, delivering and supporting e-commerce B2C solution
 
 **Software Engineer** @ [Sony](https://www.sonyindiasoftware.co.in/) _(Aug 2012 - Mar 2015)_ <br>
 This organization was primarily set-up as a high-quality service delivery center in the areas of embedded software development, enterprise applications development and support, information security services. Since inception, this organization has evolved into a very mature Global Capability Centre providing end to end technology solutions and high value services for global business organizations of **Sony**.
-  - Development of few modules Android Application - _4K Digital Cinema: Projector User Guide_ for [Sony 4K projectors](https://pro.sony/ue_US/products/digital-cinema-projection/)
+  - Development of few modules **Android Application** - _4K Digital Cinema: Projector User Guide_ for [Sony 4K projectors](https://pro.sony/ue_US/products/digital-cinema-projection/)
   - Development of some individual modules in [**BigFlix**](https://bravia.bigflix.com/) - another Sony Bravia TV HTML5 Application. _(https://www.sony.co.in/microsite/bravia/big_flix/index.html)_
   - Development of few enhancements in [**SonyLiv**](https://bravia.sonyliv.com/) - Sony Bravia TV HTML5 Application, hosted by Opera browser.
-  - Development of very good functional modules in Android Application - _B.E.S.T_, used by [Sony China Service](https://service.sony.com.cn/) technicians for the repair and service management of Sony Bravia/ Home Theatre products.
-  - Learnt and implemented and Pattern Lock Screen for above mentioned _B.E.S.T_ android application.
+  - Development of very good functional modules in **Android Application** - _B.E.S.T_, used by [Sony China Service](https://service.sony.com.cn/) technicians for the repair and service management of Sony Bravia/ Home Theatre products.
+  - Learnt and implemented and Pattern Lock Screen for above mentioned _B.E.S.T_ **Android Application**.
   - Research and implementation of [PHP/Java Bridge](http://php-java-bridge.sourceforge.net/pjb/), needed in one of the applications for AES encryption.
   - **_Technologies used:_** Android SDK, Java, HTML5, JavaScript, PHP.
 <br><br>
@@ -56,6 +56,10 @@ _(https://www.sony.co.in/microsite/bravia/big_flix/index.html)_
 <br><br>
 
 ## 🏆 Accomplishments
+
+**SAP Certified Application Associate - SAP Commerce Cloud Developer** [Certified](https://www.credly.com/go/r6FJS1Do) by [SAP](https://www.sap.com/) _(Feb 2022)_
+
+**W3Schools Certified HTML Developer** [Certified](https://certification.w3schools.com) by [W3Schools](https://www.w3schools.com/) _(Sep 2021)_
 
 **W3Schools Certified JavaScript Developer** [Certified](https://certification.w3schools.com/w3certified.asp?id=12498382) by [W3Schools](https://www.w3schools.com/) _(Dec 2020)_
 
